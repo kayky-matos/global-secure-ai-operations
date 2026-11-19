@@ -13,8 +13,6 @@ These four planned public repositories are independent reference-architecture pr
 
 **Enterprise Agentic Identity & Zero Trust Security - Integrated Reference Architecture**
 
-> **Project status: target-state reference architecture / implementation roadmap.** The diagrams, interfaces, controls, and test cases describe the intended integrated system. Individual capabilities must not be considered implemented or production-ready without code, automated tests, and reproducible evidence in the corresponding repository.
-
 Global Secure AI Operations is a **fictional financial-services enterprise scenario** connecting four independently demonstrable security engineering projects into a single, end-to-end architecture for **human identities, AI agents, machine workloads, protected APIs, and non-human identity (NHI) governance**.
 
 The design illustrates how an organization can allow an AI agent to analyze a synthetic financial report **without granting unrestricted access, confusing user and agent identities, or trusting tool calls solely because an LLM requested them**.
